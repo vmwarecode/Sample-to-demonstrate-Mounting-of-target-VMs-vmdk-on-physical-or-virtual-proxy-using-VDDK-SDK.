@@ -1,1 +1,0 @@
-# Sample-to-demonstrate-Mounting-of-target-VMs-vmdk-on-physical-or-virtual-proxy-using-VDDK-SDK.
